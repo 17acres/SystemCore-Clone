@@ -1,0 +1,1 @@
+Using config.txt info from https://github.com/PhotonVision/photon-image-modifier/blob/main/limelight3g/config.txt
